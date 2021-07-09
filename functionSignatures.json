@@ -1,0 +1,29 @@
+{
+"colorTrajectoryPlot":
+{
+    "inputs":
+    [
+        {"name":"parent", "kind":"ordered", "type":[["matlab.ui.Figure"], ["matlab.ui.container.Panel"], ["matlab.ui.container.Tab"], ["matlab.ui.container.GridLayout"], ["matlab.graphics.layout.TiledChartLayout"]]},
+        {"name":"x", "kind":"required", "type":["numeric", "vector"]},
+        {"name":"y", "kind":"required", "type":["numeric", "vector"]},
+        {"name":"c", "kind":"ordered", "type":["numeric", "vector"]},
+        {"name":"namevalue", "kind":"properties", "type":"colorTrajectoryPlot"}
+    ],
+    "outputs":
+    [
+        {"name":"h", "type":"colorTrajectoryPlot"}
+    ]
+},
+"colorTrajectoryPlot":
+{
+    "inputs":
+    [
+        {"name":"parent", "kind":"ordered", "type":[["matlab.ui.Figure"], ["matlab.ui.container.Panel"], ["matlab.ui.container.Tab"], ["matlab.ui.container.GridLayout"], ["matlab.graphics.layout.TiledChartLayout"]]},
+        {"name":"namevalue", "kind":"properties", "type":"colorTrajectoryPlot"}
+    ],
+    "outputs":
+    [
+        {"name":"h", "type":"colorTrajectoryPlot"}
+    ]
+}
+}
