@@ -1,5 +1,7 @@
 # Colored Trajectory Plot
 
+[![View Color Trajectory Plot on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/95663-color-trajectory-plot)
+
 Version: 1.0
 
 This chart creates a multi-color line based on a 2D trajectory with
